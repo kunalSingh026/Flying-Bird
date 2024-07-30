@@ -22,7 +22,7 @@ Welcome to our Bird Flying Animation Website! This project showcases a beautiful
 - **Customizable**: Easily modify the animations and design to fit your specific needs and preferences.
 
 ## Demo
-Check out the live demo [here](#).
+Check out the live demo [here](https://kunalsingh026.github.io/Flying-Bird/).
 
 ## Installation
 To get started with this project, clone the repository and open the project folder:
