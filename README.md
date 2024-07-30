@@ -27,7 +27,7 @@ Check out the live demo [here](https://kunalsingh026.github.io/Flying-Bird/).
 ## Installation
 To get started with this project, clone the repository and open the project folder:
 ```bash
-git clone https://github.com/yourusername/bird-flying-animation.git
+git clone https:[//github.com/yourusername/bird-flying-animation.git](https://github.com/kunalSingh026/Flying-Bird)
 cd bird-flying-animation
 ```
 
